@@ -5,8 +5,8 @@ const help = (prefix) => {
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
+   ○ Creador: ѕнαη∂υу™ y 𝗵𝗮𝗰𝗸𝗲𝗿 ᵗⁱᵇᵘʳᵒⁿ 𝙊𝙁𝘾
+   ○ grupo de WhatsApp https://chat.whatsapp.com/EfPG0juazjoHzCidC48Wtw
    ○ Instagram: https://www.instagram.com/thepavos
 
 ◉ *PARA USAR EL BOT*
@@ -106,7 +106,7 @@ No te olvides de seguirme en instagram flaco ;)
 
 
 _*by shanduy*_
-
+y 𝗵𝗮𝗰𝗸𝗲𝗿 ᵗⁱᵇᵘʳᵒⁿ 𝙊𝙁𝘾 (solo lo edito)
 
 ⌜ *ごきげんよう :)* ⌟ 
 `
